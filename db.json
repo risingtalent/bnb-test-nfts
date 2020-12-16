@@ -1,7 +1,6 @@
 {
   "token-uris": [
-    { "id":0,
-      "name": 1,
+    { "name": 1,
       "description": "Token 1",
       "image":"https://i.ibb.co/1qn370y/Screenshot-from-2020-08-10-11-17-10.png"
     },

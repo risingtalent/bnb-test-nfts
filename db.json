@@ -1,6 +1,6 @@
 {
   "token-uris": [
-    {
+    { "id":0,
       "name": 1,
       "description": "Token 1",
       "image":"https://via.placeholder.com/150"

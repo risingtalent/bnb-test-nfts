@@ -1,4 +1,5 @@
-[
+{
+  "token-uris": [
     {
       "name": 1,
       "description": "Token 1",
@@ -15,3 +16,4 @@
       "image":""
     }
   ]
+}
